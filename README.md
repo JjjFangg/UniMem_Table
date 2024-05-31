@@ -1,4 +1,4 @@
-# UniMem_Downstram_Experiments_Table
+# UniMem Downstream Experiments Tables
 
 About adding more downstream evaluation tasks
 
